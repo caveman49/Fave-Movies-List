@@ -2,3 +2,5 @@
 - RoboCop
 - Matrix
 - Fast & Furioussss'
+- Flubber
+- Jumanji
